@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alex3\\source\\repos\\coms-215_project4_arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415F1457-CA11-4931-BE46-EBCCB9D29D1D}|coms-215_project4_arrays\\coms-215_project4_arrays.vcxproj|C:\\Users\\alex3\\source\\repos\\coms-215_project4_arrays\\coms-215_project4_arrays\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{415F1457-CA11-4931-BE46-EBCCB9D29D1D}|coms-215_project4_arrays\\coms-215_project4_arrays.vcxproj|solutionrelative:coms-215_project4_arrays\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\alex3\\source\\repos\\coms-215_project4_arrays\\coms-215_project4_arrays\\main.cpp",
+              "RelativeDocumentMoniker": "coms-215_project4_arrays\\main.cpp",
+              "ToolTip": "C:\\Users\\alex3\\source\\repos\\coms-215_project4_arrays\\coms-215_project4_arrays\\main.cpp",
+              "RelativeToolTip": "coms-215_project4_arrays\\main.cpp",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAALYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T18:56:11.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
