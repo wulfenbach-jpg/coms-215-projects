@@ -71,7 +71,7 @@ namespace cs_fraction {
    ostream& operator<<(ostream& out, const Fraction& rhs) {
       if (rhs.denominator == 1) {
          out << rhs.numerator;
-      } else if (abs(rhs.numerator) > rhs.denominator) {
+      } else if (abs(rhs.numerator) > rhs.denominator && rhs.denominator != 1) {
          out << rhs.numerator / rhs.denominator << "+" << abs((rhs.numerator % rhs.denominator)) << "/" << rhs.denominator;
       } else {
          out << rhs.numerator << "/" << rhs.denominator;
@@ -195,8 +195,8 @@ namespace cs_fraction {
          }
       }
 
-      if (numerator == denominator) {
-         numerator = 1;
+      if (abs(numerator) % denominator == 0) {
+         numerator = numerator / denominator;
          denominator = 1;
       }
 
